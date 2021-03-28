@@ -1,0 +1,119 @@
+/* Header Section */
+.show-mobile{
+  display:none;
+}
+
+.container-fluid{
+font-size: 120%;
+}
+
+.navbar-brand{
+  width: auto
+}
+
+.row{
+  background-color: #f7f7f7;
+}
+
+.hero-item-1{
+  font-size: 6rem;
+  padding-left:10%;
+  padding-top:10%;
+}
+
+.hero-item-2{
+  font-size: 2rem;
+  padding-left:10%;
+  padding-right:5%;
+}
+
+.hero-image{
+  width:100%;
+  height:100%;
+  padding-left:10% !important;
+  padding-top:10% !important;
+  padding-right:10% !important;
+}
+
+.hero-button{
+  padding-left:11% !important;
+  padding-top:5% !important;
+}
+
+#navbarNav{
+  padding-right:30%;
+}
+
+
+/* card section */
+.container-fluid-card{
+  padding: 0 10%!important;
+}
+
+.card-heading{
+  padding:3% 25%;
+  font-size:3rem;
+  font-weight:400;
+  text-align: center;
+}
+.card-1{
+padding-top: 15%;
+}
+
+.card-2{
+padding-top: 15%;
+}
+
+.card-3{
+padding-top: 15%;
+}
+
+/* Testimonial Section */
+
+.testimonial-heading{
+  padding:3% 25%;
+  font-size:3rem;
+  font-weight:400;
+  text-align: center;
+}
+
+.testimonial-container{
+background-color: #f7f7f7;
+text-align: center;
+padding: 2% 15% 5%!important;
+}
+
+/* Footer Section */
+
+.container-fluid.footer-content{
+  text-align: center;
+  background-color:#0d6efd;
+  padding: 1% 10%;
+  color: white;
+}
+
+.footer-content .row{
+  background-color:#0d6efd;
+}
+
+
+/* Pricing Section */
+
+.container-pricing{
+  text-align: center;
+  padding: 0 0 5%;
+}
+
+.container-fluid-pricing{
+  padding: 0 20%!important;
+}
+
+
+@media only screen and (max-width:900px) {
+  .show-desktop{
+    display: none;
+  }
+.show-mobile
+{
+  display: flex;
+  }
