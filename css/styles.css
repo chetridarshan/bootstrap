@@ -106,7 +106,7 @@ padding: 2% 15% 5%!important;
 }
 
 
-@media (max-width:900px) {
+@media only screen and (max-width: 600px) {
   
  .navbar{
 font-size: 120%;
@@ -124,4 +124,5 @@ font-size: 120%;
 .btn{
   font-size: 2rem!important;
 }
+  
 }
