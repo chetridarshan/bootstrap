@@ -106,7 +106,7 @@ padding: 2% 15% 5%!important;
 }
 
 
-@media only screen and (max-width:900px) {
+@media (max-width:900px) {
   
  .navbar{
 font-size: 120%;
