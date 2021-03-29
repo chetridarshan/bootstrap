@@ -121,4 +121,13 @@ padding: 2% 15% 5%!important;
  .navbar{
 font-size: 120%;
 }
-  
+
+  #navbarNav a {
+  font-size: 40px;
+}
+
+.img{
+  width:70%;
+  height:70%;
+}
+}
