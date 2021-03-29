@@ -117,3 +117,9 @@ padding: 2% 15% 5%!important;
 {
   display: flex;
   }
+  
+ .container-fluid{
+font-size: 120%;
+padding: 1rem !important;
+}
+  
