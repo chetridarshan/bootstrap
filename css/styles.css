@@ -1,7 +1,4 @@
 /* Header Section */
-.show-mobile{
-  display:none;
-}
 
 .container-fluid{
 font-size: 120%;
@@ -110,13 +107,6 @@ padding: 2% 15% 5%!important;
 
 
 @media only screen and (max-width:900px) {
-  .show-desktop{
-    display: none;
-  }
-.show-mobile
-{
-  display: flex;
-  }
   
  .navbar{
 font-size: 120%;
@@ -129,5 +119,14 @@ font-size: 120%;
 .img{
   width:70%;
   height:70%;
+}
+  
+  .img{
+  width:70%;
+  height:70%;
+}
+
+.btn{
+  font-size: 2rem!important;
 }
 }
