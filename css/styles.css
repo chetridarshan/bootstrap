@@ -5,7 +5,6 @@ font-size: 120%;
 }
 
 .navbar-brand{
-  width: auto
 }
 
 .row{
@@ -53,6 +52,11 @@ font-size: 120%;
   font-weight:400;
   text-align: center;
 }
+
+.hero-item-1{
+  width: auto!important;
+}
+
 .card-1{
 padding-top: 15%;
 }
@@ -106,23 +110,38 @@ padding: 2% 15% 5%!important;
 }
 
 
-@media only screen and (max-width: 600px) {
-  
+@media only screen and (max-width: 900px) {
+
  .navbar{
 font-size: 120%;
 }
 
  #navbarNav a {
-  font-size: 40px;
+  font-size: 100%;
 }
 
-.img{
-  width:70%;
-  height:70%;
+#img{
+  width:80%!important;
+  height:80%!important;
 }
-  
+
 .btn{
   font-size: 2rem!important;
+
+
 }
-  
+
+.hero-item-1{
+  font-size: 4rem!important;
+}
+
+
+#navbarNav {
+    margin-right: 0%;
+
+}
+.navbar-brand{
+  width:75%;
+}
+
 }
