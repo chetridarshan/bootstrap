@@ -84,6 +84,10 @@ text-align: center;
 padding: 2% 15% 5%!important;
 }
 
+.container-img{
+width: auto;
+}
+
 /* Footer Section */
 
 .container-fluid.footer-content{
@@ -143,9 +147,13 @@ font-size: 120%;
 .navbar-brand{
   width:75%;
 }
-
-  
- u{
+u{
   font-size: 2rem;
 }
+
+.testimonial-container{
+background-color: #f7f7f7;
+padding: 0% 10% 0%!important;
+}
+
 }
